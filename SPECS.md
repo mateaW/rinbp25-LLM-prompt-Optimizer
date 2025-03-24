@@ -52,13 +52,13 @@
 
 ## Core Features
 
-- ✅ Prompt graph visualizer
-- ✅ Branch & clone prompts from any node
-- ✅ Fitness score dashboard and comparison tools
-- ✅ Model selector per generation run
-- ✅ Export/import prompt experiments
-- ✅ Collaboration via shared workspaces
-- ✅ API access for external tools
+- Prompt graph visualizer
+- Branch & clone prompts from any node
+- Fitness score dashboard and comparison tools
+- Model selector per generation run
+- Export/import prompt experiments
+- Collaboration via shared workspaces
+- API access for external tools
 
 ---
 
