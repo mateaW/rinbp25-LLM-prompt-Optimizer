@@ -57,4 +57,4 @@ Daytona sandboxes are used to safely and efficiently execute prompt variations i
 
 ## System Architecture
 
-![LLM Prompt Optimizer Architecture](images/systemArchitecture.png)
+![LLM Prompt Optimizer Architecture](images/systemArchitecture2.png)
