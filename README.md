@@ -25,4 +25,10 @@
 
 ---
 
+## Flow Diagram
+
+![LLM Prompt Optimizer Architecture](images/FlowDiagram.png)
+
+---
+
 Project structure and Getting Started details comming soon...
