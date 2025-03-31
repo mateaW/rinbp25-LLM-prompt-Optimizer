@@ -52,3 +52,9 @@ Daytona sandboxes are used to safely and efficiently execute prompt variations i
 | User Management     | Supabase            |
 | Execution Env       | Daytona Sandboxes   |
 | Model APIs          | OpenAI, Claude, Llama, etc. |
+
+---
+
+## System Architecture
+
+![LLM Prompt Optimizer Architecture](images/systemArchitecture.png)
