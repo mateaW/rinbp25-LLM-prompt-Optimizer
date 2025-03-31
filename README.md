@@ -6,14 +6,11 @@
 
 ## Key Features
 
-- Prompt generation and optimization using evolutionary algorithms  
-- Graph-based tracking of prompt mutations and relationships (Neo4j)  
-- Storage of generations and scores in a key-value store (Redis or DynamoDB)  
-- Parallel and secure prompt evaluation using Daytona sandboxes  
-- Workspace snapshots for versioning and experimental branching  
+- Prompt generation and optimization using evolutionary algorithms (Genetic Algorithm - GA)
+- Graph-based tracking of prompt mutations and relationships (Neo4j)   
+- Parallel and secure prompt evaluation using Daytona sandboxes   
 - User and role management via Supabase  
 - Visual prompt graph explorer  
-- REST API for integration with external tools  
 
 ---
 
@@ -25,7 +22,6 @@
 4. Responses are evaluated using fitness functions (relevance, clarity, accuracy, etc.).  
 5. The best-performing prompts are selected for the next generation.  
 6. All prompt relationships are stored in a graph database.  
-7. Successful generations can be saved as snapshots and branched into new experiments.
 
 ---
 
